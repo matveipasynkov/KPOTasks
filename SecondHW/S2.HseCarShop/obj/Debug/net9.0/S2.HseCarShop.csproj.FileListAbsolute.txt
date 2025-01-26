@@ -1,0 +1,15 @@
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/bin/Debug/net9.0/S2.HseCarShop
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/bin/Debug/net9.0/S2.HseCarShop.deps.json
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/bin/Debug/net9.0/S2.HseCarShop.runtimeconfig.json
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/bin/Debug/net9.0/S2.HseCarShop.dll
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/bin/Debug/net9.0/S2.HseCarShop.pdb
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/S2.HseCarShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/S2.HseCarShop.AssemblyInfoInputs.cache
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/S2.HseCarShop.AssemblyInfo.cs
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/S2.HseCarShop.csproj.CoreCompileInputs.cache
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/S2.HseCarShop.sourcelink.json
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/S2.HseCarShop.dll
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/refint/S2.HseCarShop.dll
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/S2.HseCarShop.pdb
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/S2.HseCarShop.genruntimeconfig.cache
+/Users/matveipasynkov/Desktop/Matthew/KPOTasks/SecondHW/S2.HseCarShop/obj/Debug/net9.0/ref/S2.HseCarShop.dll
